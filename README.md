@@ -57,3 +57,4 @@ Start Jupyter at http://127.0.0.1:8888. You may need to look into the server log
 
 Then open Marquez web UI at http://127.0.0.1:3000/. Look for the `namespace` of interest, and explore the `jobs` and `datasests`. 
 
+You can also test Spark integration with [OpenLineage-Spark Demo.ipynb](/notebooks/OpenLineage-Spark%20Demo.ipynb).
